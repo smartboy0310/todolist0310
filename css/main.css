@@ -1,0 +1,40 @@
+.moneygram__converter {
+   display: block;
+   width: 100%;
+   max-width: 400px;
+   margin: 0 auto;
+   overflow: hidden;
+   background-color: #d3cece;
+   border-radius: 10px;
+}
+.moneygram__form__label {
+   width: 100%;
+   max-width: 280px;
+}
+.label__select__from {
+   display: inline-block;
+}
+.moneygram__converter-box__arrow-btn {
+   border: none;
+   border-radius: 3px;
+}
+.moneygram__converter__result {
+   width: 100%;
+   max-width: 280px;
+   height: 35px;
+   vertical-align: center;
+   background-color: #fff;
+   border-radius: 5px;
+}
+.moneygram__converter__btn {
+   display: block;
+   border: none;
+   margin: 0 auto;
+   padding: 7px 25px;
+   background-color: #5FB4A2;
+   color: #fff;
+   border-radius: 5px;
+}
+.moneygram__converter__btn:hover {
+   
+}
